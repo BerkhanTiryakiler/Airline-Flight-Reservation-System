@@ -1,0 +1,5 @@
+There are two versions for this project: With and without seats.
+
+İn with seat version, please only do one registration to protect logic of project.
+
+İn without seat version, İts free to use with multiple registrations. 

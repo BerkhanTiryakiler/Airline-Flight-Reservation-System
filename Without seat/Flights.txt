@@ -1,0 +1,8 @@
+Sofia - 19.00
+london - 19.00
+Paris - 14.00
+Berlin - 07.00
+Krakow - 12.00
+Zurich - 17-00
+Monaco - 04.00
+Istanbul - 08.50
